@@ -1,0 +1,2 @@
+a) retorna el valor float : 500
+b) retorna el valor float : 8900
